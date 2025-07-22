@@ -149,19 +149,19 @@ The application leverages OpenAI's GPT-4 Vision model for:
 ## 📸 Screenshots
 
 ### Main Application Interface
-![Main Interface](images/Screenshot 2025-07-22%165033.png)
+![Main Interface](images/Screenshot%202025-07-22%20165033.png)
 *Clean, intuitive dashboard with PDF upload and configuration options*
 
 ### PDF Processing in Action
-![Processing Progress]("screenshots/processing-progress.png")
+![Processing Progress](images/Screenshot%202025-07-22%20170502.png)
 *Real-time progress tracking during content extraction*
 
 ### Extracted Content Results
-![Extracted Content](screenshots/extracted-content.png)
+![Extracted Content](images/Screenshot%202025-07-22%20164920.png)
 *AI-processed content showing text, images, formulas, and tables*
 
 ### Download Options
-![Download Options](screenshots/download-options.png)
+![Download Options](images/Screenshot%202025-07-22%20170708.png)
 *Multiple export formats available for download*
 
 ## 🔍 Troubleshooting
