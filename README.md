@@ -153,7 +153,7 @@ The application leverages OpenAI's GPT-4 Vision model for:
 *Clean, intuitive dashboard with PDF upload and configuration options*
 
 ### PDF Processing in Action
-![Processing Progress](screenshots/processing-progress.png)
+![Processing Progress]("screenshots/processing-progress.png")
 *Real-time progress tracking during content extraction*
 
 ### Extracted Content Results
