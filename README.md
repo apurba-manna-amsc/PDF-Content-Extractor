@@ -149,7 +149,7 @@ The application leverages OpenAI's GPT-4 Vision model for:
 ## 📸 Screenshots
 
 ### Main Application Interface
-![Main Interface](images/Screenshot 2025-07-22 165033.png)
+![Main Interface]("images/Screenshot 2025-07-22 165033.png")
 *Clean, intuitive dashboard with PDF upload and configuration options*
 
 ### PDF Processing in Action
